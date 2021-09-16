@@ -1,38 +1,0 @@
-
-var ftGUID_4200532="4593263C103C75";
-var ftConfID_4200532="0";
-var ftParams_4200532="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=htmtopdf.herokuapp.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fhtmtopdf.herokuapp.com%2F&ft_section=__22435714372898828633797340002372609958&cachebuster=683372.282701647";
-var ftKeyword_4200532="";
-var ftCustom_4200532="";
-var ftSection_4200532="__22435714372898828633797340002372609958";
-var ftSegment_4200532="w2b,um2,xf7";
-var ftSegmentList_4200532=[{s:'w2b'},{s:'um2'},{m:'dlldvus',s:'xf7',t:47260000}];
-var ftRuleMatch_4200532="0";
-var ftTimestamp_4200532="1621107523";
-var ftGeoC2_4200532="br";
-var ftGeoState_4200532="sp";
-var ftGeoCity_4200532="sao paulo";
-var ftISP_4200532="ibv telecom ltda";
-var ftSpeed_4200532="broadband";
-var ftDMA_4200532="76009";
-var ftLong_4200532="-46.63";
-var ftLat_4200532="-23.52";
-var ftPostal_4200532="01101-080";
-var ftTimeZone_4200532="-300";
-var ftMobileCarrier_4200532="";
-var ftImp4200532 = {};
-ftImp4200532.privacy = "x";
-ftImp4200532.guidAge = "290";
-ftImp4200532.impID = "34B029E4-8B6B-DCED-BC90-BD4D63C1018B";
-ftImp4200532.duid = "FT:4593263C103C75";
-
-ftImp4200532.ft_tpplid = "";
-ftImp4200532.ft_c = {};
-ftImp4200532.gdpr = "";
-ftImp4200532.gdpr_consent = "";
-ftImp4200532.gdpr_pd = "";
-ftImp4200532.oob_consent = "0";
-ftImp4200532.gdprStoredConsent = "";
-ftImp4200532.us_privacy = "";
-
-document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/420/4200532/2575464/js/j-4200532-2575464.js" id="ftscript_m4200532" name="ftscript_m4200532"></scr'+'ipt>');
